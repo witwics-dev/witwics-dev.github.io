@@ -1,0 +1,14 @@
+{
+  "Type": "Multiple Choice",
+  "Choices": [
+    "Malta",
+    "Romania",
+    "Germany"
+  ],
+  "Clues": [
+    "Named Germany",
+    "Capital is the capital of Germany",
+    "National language is national language of Germany"
+  ],
+  "Correct Response": 3
+}
