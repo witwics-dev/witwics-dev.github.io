@@ -1,14 +1,43 @@
-{
-  "Type": "Multiple Choice",
-  "Choices": [
-    "Malta",
-    "Romania",
-    "Germany"
-  ],
-  "Clues": [
-    "Named Germany",
-    "Capital is the capital of Germany",
-    "National language is national language of Germany"
-  ],
-  "Correct Response": 3
-}
+[
+	{
+		"Type": 1,
+		"Choices": [
+			"Brazil",
+			"Peru",
+			"Paraguay"
+		],
+		"Clues": [
+			"The Andes",
+			"Guinea pigs known as 'cuy' [/ku'i/]",
+			"Once ruled by Incas"
+		],
+		"Correct Response": 2
+	},
+	{
+		"Type": 1,
+		"Choices": [
+			"Antarctica",
+			"Indonesia",
+			"Australia"
+		],
+		"Clues": [
+			"World's smallest continent",
+			"Wild horses called Brumby"
+		],
+		"Correct Response": 3
+	},
+	{
+		"Type": 1,
+		"Choices": [
+			"Poland",
+			"Latvia",
+			"Romania"
+		],
+		"Clues": [
+			"West of Belarus",
+			"Wieliczka [/vi'ɛ'liʈʂ'ka/] salt mine",
+			"Salt sculptures"
+		],
+		"Correct Response": 1
+	}
+]
