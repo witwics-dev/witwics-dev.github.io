@@ -27,6 +27,39 @@
 		"Correct Response": 3
 	},
 	{
+		"Type": 2,
+		"Location": "Texas",
+		"Questions": [
+			{
+				"Question": "In the battle that gained Texas freedom from Mexico, Sam Houston led a surprise attack on the Mexicans. What were the Mexicans doing at the time?",
+				"Choices": [
+					"Setting up camp",
+					"Taking a siesta",
+					"Waiting in line at McDonald's"
+				],
+				"Correct Response": 2
+			},
+			{
+				"Question": "The first state police force in the US was the Texas Rangers. Today, that's also the name of a sports team. Do they play...",
+				"Choices": [
+					"Football",
+					"Rodeo",
+					"Baseball"
+				],
+				"Correct Response": 3
+			},
+			{
+				"Question": "This mythical cowboy folk hero was raised by coyotes in Texas, and invented everything from cattle branding to train robbing. What was his name?",
+				"Choices": [
+					"Pecos Bill",
+					"Mr. Bill",
+					"Bill Clinton"
+				],
+				"Correct Response": 1
+			}
+		]
+	},
+	{
 		"Type": 1,
 		"Choices": [
 			"Poland",
