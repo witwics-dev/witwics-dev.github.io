@@ -72,5 +72,55 @@
 			"Salt sculptures"
 		],
 		"Correct Response": 1
+	},
+	{
+		"Type": 4,
+		"Clues": [
+			{
+				"Clue": "Robocrook high-tailed it to the home of football's Orange Bowl. Name the city.",
+				"Choices": [
+					"Columbia",
+					"Miami",
+					"Atlanta"
+				],
+				"Correct Response": 2
+			},
+			{
+				"Clue": "Then, he pressed on to the Peach State. Name it.",
+				"Choices": [
+					"Missouri",
+					"Florida",
+					"Georgia"
+				],
+				"Correct Response": 3
+			},
+			{
+				"Clue": "Robocrook flew first-class to Mississippi. What state did he fly over?",
+				"Choices": [
+					"Iowa",
+					"Alabama",
+					"Virginia"
+				],
+				"Correct Response": 2
+			},
+			{
+				"Clue": "Next, he took a limo to Little Rock. What major river did he cross?",
+				"Choices": [
+					"Hudson",
+					"Ohio",
+					"Mississippi"
+				],
+				"Correct Response": 3
+			},
+			{
+				"Clue": "Robocrook rocked his way to the capital of Louisiana. Name it.",
+				"Choices": [
+					"Baton Rouge",
+					"Austin",
+					"Jackson"
+				],
+				"Correct Response": 1
+			}
+		]
 	}
 ]
