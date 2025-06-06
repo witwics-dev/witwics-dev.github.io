@@ -8,7 +8,7 @@
 		],
 		"Clues": [
 			"The Andes",
-			"Guinea pigs known as 'cuy' [/ku'i/]",
+			"Guinea pigs known as 'cuy' [/'kui/]",
 			"Once ruled by Incas"
 		],
 		"Correct Response": 2
@@ -68,7 +68,7 @@
 		],
 		"Clues": [
 			"West of Belarus",
-			"Wieliczka [/vi'ɛ'liʈʂ'ka/] salt mine",
+			"Wieliczka [/viɛ'liʈʂka/] salt mine",
 			"Salt sculptures"
 		],
 		"Correct Response": 1
@@ -122,5 +122,19 @@
 				"Correct Response": 1
 			}
 		]
+	},
+	{
+		"Type": 5,
+		"Choices": [
+			"Iowa",
+			"Kansas",
+			"Indiana"
+		],
+		"Clues": [
+			"Eastern border is the Mississippi River",
+			"Surf Ballroom",
+			"Buddy Holly's last concert was here"
+		],
+		"Correct Response": 1
 	}
 ]
