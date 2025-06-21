@@ -162,5 +162,7 @@
 			{ "Landmark": "Lake Of Love" }
 		]
 	},
-	"Round 3": {}
+	"Round 3": {
+		"Continent": 0
+	}
 }
