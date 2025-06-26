@@ -1,0 +1,224 @@
+{
+	"Case Title": "The Williamsburglary",
+	"Accused Crook": 4,
+	"Stolen Loot": "Colonial Williamsburg",
+	"Round 1": [
+		{
+			"Type": 1,
+			"Presentation": {
+				"Medium": "ACME Crimenet Computer",
+				"Clue Description": "Patty is in the capital of a country north of Germany, attending opening night of the Verdensballetten ballet festival. The royal family themselves contribute to the ballet, and attend the festival annually."
+			},
+			"Choices": [
+				"Versaille",
+				"Stockholm",
+				"Copenhagen"
+			],
+			"Clues": [
+				"Capital of a country north of Germany",
+				"Verdensballetten ballet festival",
+				"Attended by the royal family"
+			],
+			"Correct Response": 3
+		},
+		{
+			"Type": 1,
+			"Presentation": {
+				"Medium": "Video Clue",
+				"Clue Description": "Okay, gumshoes, I got the word on Patty. She's on a mountaintop line that runs from north to south. It goes through three national parks and 25 national forests in five different states. The line divides all the water in North America. The streams and rivers east of it flow toward the Atlantic Ocean. The ones to the west of it flow toward the Pacific. But Patty is only flowing in one direction: to prison."
+			},
+			"Choices": [
+				"Tropic Of Cancer",
+				"Longitude 90° West",
+				"Continental Divide"
+			],
+			"Clues": [
+				"Runs north and south",
+				"Passes through five states",
+				"All water east of it flows east",
+				"All water west of it flows west"
+			],
+			"Correct Response": 3
+		},
+		{
+			"Type": 1,
+			"Presentation": {
+				"Medium": "Video Music Clue",
+				"Clue Description": "This is Diblo Dibala. He wrote a note for us: 'I just saw Patty Larceny in my hometown. Some of Africa's most famous contemporary artists live there, like Iyenga, Gaz Mawete, and Gims. So come to Lubumbashi and pack Patty in."
+			},
+			"Choices": [
+				"Democratic Republic Of The Congo",
+				"Egypt",
+				"Nigeria"
+			],
+			"Clues": [
+				"Lubumbashi",
+				"Important musical and artistic centre",
+				"Hometown of Diblo Dibala"
+			],
+			"Correct Response": 1
+		},
+		{
+			"Type": 2,
+			"Location": "Democratic Republic Of The Congo",
+			"Questions": [
+				{
+					"Question": "Which one of these imaginary lines runs through the DRC?",
+					"Choices": [
+						"International Date Line",
+						"Prime Meridian",
+						"Equator"
+					],
+					"Correct Response": 3
+				},
+				{
+					"Question": "You'll find more hippos in the DRC than any other place in the world. The average hippo weighs 3100 lbs. Despite their weight, how fast can a hippo run?",
+					"Choices": [
+						"About five miles per hour",
+						"About twelve miles per hour",
+						"About twenty five miles per hour"
+					],
+					"Correct Response": 3
+				},
+				{
+					"Question": "The official currency of the DRC is known as the Congolese...",
+					"Choices": [
+						"Zaire",
+						"Franc",
+						"Capybara"
+					],
+					"Correct Response": 2
+				}
+			]
+		},
+		{
+			"Type": 1,
+			"Presentation": {
+				"Medium": "Phone Tap",
+				"Clue Description": "Patty: 'Oh, Carmen... This colonial lifestyle's no fun. They don't even have computer games.'\nCarmen: 'Sorry, dear. ACME is closing in. Head for a Brazilian state with one of the world's longest rivers.'\nPatty: 'Oh, I know the state you mean! Mostly covered by one of the largest tropical rainforests in the world!'\nCarmen: 'Right. The perfect place to hide Williamsburg. But you won't have time for computer games there, either.'\nPatty: 'Oh, that's okay. I'll do my second-favourite hobby: identifying jungle insects by phylum, genus, and species.'"
+			},
+			"Choices": [
+				"Pernambuco",
+				"Paraná",
+				"Amazonas"
+			],
+			"Clues": [
+				"Brazilian state",
+				"One of the world's largest tropical rainforests",
+				"One of the world's largest rivers"
+			],
+			"Correct Response": 3
+		},
+		{
+			"Type": 1,
+			"Presentation": {
+				"Medium": "Video Clue",
+				"Clue Description": "[Rockapella interlude]"
+			},
+			"Choices": [
+				"Moldova",
+				"Latvia",
+				"Slovenia"
+			],
+			"Clues": [
+				"Between Ukraine and Romania",
+				"Former Soviet Union",
+				"Storytelling is a tradition"
+			],
+			"Correct Response": 1
+		},
+		{
+			"Type": 4,
+			"Description": "Patty left Latvia and went back to the United States.",
+			"Clues": [
+				{
+					"Clue": "Patty took off for the Grand Canyon. What state is she in?",
+					"Choices": [
+						"Texas",
+						"Utah",
+						"Arizona"
+					],
+					"Correct Response": 3
+				},
+				{
+					"Clue": "Then, they hot-footed it to the capital of New Mexico. Name it.",
+					"Choices": [
+						"Santa Fe",
+						"Denver",
+						"Phoenix"
+					],
+					"Correct Response": 1
+				},
+				{
+					"Clue": "They carted Colonial Williamsburg across New Mexico's northern border. What state are they in now?",
+					"Choices": [
+						"Colorado",
+						"Idaho",
+						"Montana"
+					],
+					"Correct Response": 1
+				},
+				{
+					"Clue": "Next, they hoofed it to a hideout in Jackson Hole. Name the state.",
+					"Choices": [
+						"Oregon",
+						"Nevada",
+						"Wyoming"
+					],
+					"Correct Response": 3
+				},
+				{
+					"Clue": "Patty winged it from Wyoming to the site of the Temple Of The Sun. What state is she now in?",
+					"Choices": [
+						"Utah",
+						"Idaho",
+						"Montana"
+					],
+					"Correct Response": 1
+				}
+			]
+		},
+		{
+			"Type": 5,
+			"Presentation": {
+				"Medium": "Video Clue",
+				"Clue Description": "I just got this from ACME Junkanoonet. Junkanoo is a year-end festival that takes place every year in the capital of The Bahamas, on New Providence Island. Festival fun-seekers wear colourful crépe paper costumes like this one. And we just got word that Patty is there, shopping for a costume big enough to hide Colonial Williamsburg."
+			},
+			"Choices": [
+				"Freeport",
+				"Nassau",
+				"Matthew Town"
+			],
+			"Clues": [
+				"Capital of The Bahamas",
+				"Located on New Providence Island",
+				"Junkanoo festival"
+			],
+			"Correct Response": 2
+		}
+	],
+	"Round 2": {
+		"Location": "Belgium",
+		"Additional Information": "",
+		"Landmarks": [
+			{ "Landmark": "Graycliff" },
+			{ "Landmark": "College Of The Bahamas" },
+			{ "Landmark": "Straw Market" },
+			{ "Landmark": "Queen's Staircase" },
+			{ "Landmark": "Junkanoo Museum" },
+			{ "Landmark": "Seafloor Aquarium" },
+			{ "Landmark": "Parliament Square" },
+			{ "Landmark": "Grant's Town" },
+			{ "Landmark": "Columbus Statue" },
+			{ "Landmark": "Fort Fincastle" },
+			{ "Landmark": "Prince George Wharf" },
+			{ "Landmark": "Bay Street" },
+			{ "Landmark": "Rawson Square" },
+			{ "Landmark": "Waterloo Lake" },
+			{ "Landmark": "Potter's Cay" }
+		]
+	},
+	"Round 3": {
+		"Continent": 0
+	}
+}
