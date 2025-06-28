@@ -2,11 +2,13 @@
 	"Case Title": "The Williamsburglary",
 	"Accused Crook": 4,
 	"Stolen Loot": "Colonial Williamsburg",
+	"Case Description": "This is Patty Larceny, Carmen Sandiego's dimply doyenne of duplicity. Her last known whereabouts: Williamsburg, Virginia. From 1699 to 1780, Williamsburg was Virginia's capital. It was home to George Washington, Thomas Jefferson, and about 2000 others, half of whom were slaves. Williamsburg's colonial glory was restored in 1926, and today, many of the 10,000 permanent residents recreate life in the 18th century, wearing colonial era clothes and demonstrating period crafts with thousands of daily visitors. Or, they did, until today, when Patty Larceny toodled into town. She didn't just take snapshots; she took every bit of Williamsburg, and filed it in her photo album. Gumshoes, it's your job to stop:\n\nThe Williamsburglary",
+	"Videos": [ 0 ],
 	"Round 1": [
 		{
 			"Type": 1,
 			"Presentation": {
-				"Medium": "ACME Crimenet Computer",
+				"Medium": 2,
 				"Clue Description": "Patty is in the capital of a country north of Germany, attending opening night of the Verdensballetten ballet festival. The royal family themselves contribute to the ballet, and attend the festival annually."
 			},
 			"Choices": [
@@ -24,7 +26,8 @@
 		{
 			"Type": 1,
 			"Presentation": {
-				"Medium": "Video Clue",
+				"Medium": 0,
+				"Videos": [ 1 ],
 				"Clue Description": "Okay, gumshoes, I got the word on Patty. She's on a mountaintop line that runs from north to south. It goes through three national parks and 25 national forests in five different states. The line divides all the water in North America. The streams and rivers east of it flow toward the Atlantic Ocean. The ones to the west of it flow toward the Pacific. But Patty is only flowing in one direction: to prison."
 			},
 			"Choices": [
@@ -43,7 +46,8 @@
 		{
 			"Type": 1,
 			"Presentation": {
-				"Medium": "Video Music Clue",
+				"Medium": 1,
+				"Videos": [ 2 ],
 				"Clue Description": "This is Diblo Dibala. He wrote a note for us: 'I just saw Patty Larceny in my hometown. Some of Africa's most famous contemporary artists live there, like Iyenga, Gaz Mawete, and Gims. So come to Lubumbashi and pack Patty in."
 			},
 			"Choices": [
@@ -94,7 +98,8 @@
 		{
 			"Type": 1,
 			"Presentation": {
-				"Medium": "Phone Tap",
+				"Medium": 0,
+				"Videos": [ 3 ],
 				"Clue Description": "Patty: 'Oh, Carmen... This colonial lifestyle's no fun. They don't even have computer games.'\nCarmen: 'Sorry, dear. ACME is closing in. Head for a Brazilian state with one of the world's longest rivers.'\nPatty: 'Oh, I know the state you mean! Mostly covered by one of the largest tropical rainforests in the world!'\nCarmen: 'Right. The perfect place to hide Williamsburg. But you won't have time for computer games there, either.'\nPatty: 'Oh, that's okay. I'll do my second-favourite hobby: identifying jungle insects by phylum, genus, and species.'"
 			},
 			"Choices": [
@@ -112,7 +117,8 @@
 		{
 			"Type": 1,
 			"Presentation": {
-				"Medium": "Video Clue",
+				"Medium": 0,
+				"Videos": [ 4 ],
 				"Clue Description": "[Rockapella interlude]"
 			},
 			"Choices": [
@@ -181,7 +187,8 @@
 		{
 			"Type": 5,
 			"Presentation": {
-				"Medium": "Video Clue",
+				"Medium": 0,
+				"Videos": [ 5 ],
 				"Clue Description": "I just got this from ACME Junkanoonet. Junkanoo is a year-end festival that takes place every year in the capital of The Bahamas, on New Providence Island. Festival fun-seekers wear colourful crépe paper costumes like this one. And we just got word that Patty is there, shopping for a costume big enough to hide Colonial Williamsburg."
 			},
 			"Choices": [
