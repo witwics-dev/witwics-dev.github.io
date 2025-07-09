@@ -7,6 +7,7 @@
 	"Round 1": [
 		{
 			"Type": 1,
+			"Maps": [ 0 ],
 			"Presentation": {
 				"Medium": 2,
 				"Clue Description": "Patty is in the capital of a country north of Germany, attending opening night of the Verdensballetten ballet festival. The royal family themselves contribute to the ballet, and attend the festival annually."
@@ -25,6 +26,7 @@
 		},
 		{
 			"Type": 1,
+			"Maps": [ 1 ],
 			"Presentation": {
 				"Medium": 0,
 				"Videos": [ 1 ],
@@ -45,6 +47,7 @@
 		},
 		{
 			"Type": 1,
+			"Maps": [ 2 ],
 			"Presentation": {
 				"Medium": 1,
 				"Videos": [ 2 ],
@@ -97,6 +100,7 @@
 		},
 		{
 			"Type": 1,
+			"Maps": [ 3 ],
 			"Presentation": {
 				"Medium": 0,
 				"Videos": [ 3 ],
@@ -116,6 +120,7 @@
 		},
 		{
 			"Type": 1,
+			"Maps": [ 4 ],
 			"Presentation": {
 				"Medium": 0,
 				"Videos": [ 4 ],
@@ -135,6 +140,7 @@
 		},
 		{
 			"Type": 4,
+			"Maps": [ 5, 6 ],
 			"Description": "Patty left Latvia and went back to the United States.",
 			"Clues": [
 				{
@@ -186,6 +192,7 @@
 		},
 		{
 			"Type": 5,
+			"Maps": [ 7 ],
 			"Presentation": {
 				"Medium": 0,
 				"Videos": [ 5 ],
