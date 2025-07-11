@@ -1,0 +1,248 @@
+{
+	"Alabama": {
+		"Type": "US State",
+		"Key Locations": [
+			"Auburn",
+			"Tuscaloosa",
+			"Decatur",
+			"Hoover",
+			"Rosa Parks Museum",
+			"Huntsville",
+			"Mobile",
+			"Birmingham",
+			"Montgomery"
+		]
+	},
+	"Arizona": {
+		"Type": "US State",
+		"Key Locations": [
+			"Buckeye",
+			"Sierra Vista",
+			"Superstition Mountains",
+			"Sedona",
+			"Flagstaff",
+			"Mesa",
+			"Prescott",
+			"Tucson",
+			"Phoenix",
+			"Tempe"
+		]
+	},
+	"California": {
+		"Type": "US State",
+		"Key Locations": [
+			"Chico",
+			"Modesto",
+			"Bakersfield",
+			"Santa Rosa",
+			"Fresno",
+			"Berkeley",
+			"Santa Cruz",
+			"San Jose",
+			"San Francisco",
+			"Sacramento"
+		]
+	},
+	"Connecticut": {
+		"Type": "US State",
+		"Key Locations": [
+			"Hamden",
+			"Manchester",
+			"New Britain",
+			"New London",
+			"Mohegan Sun",
+			"Mark Twain House & Museum",
+			"New Haven",
+			"New Hartford",
+			"Stamford",
+			"Hartford"
+		]
+	},
+	"Florida": {
+		"Type": "US State",
+		"Key Locations": [
+			"Kissimmee",
+			"Sarasota",
+			"Boca Raton",
+			"Key West",
+			"Pensacola",
+			"Fort Myers",
+			"Jacksonville",
+			"Tampa",
+			"Orlando",
+			"Tallahassee"
+		]
+	},
+	"Georgia": {
+		"Type": "US State",
+		"Key Locations": [
+			"Valdosta",
+			"Savannah",
+			"Gainesville",
+			"Columbus",
+			"Marietta",
+			"Athens",
+			"Dalton",
+			"Macon",
+			"Augusta",
+			"Atlanta"
+		]
+	},
+	"Massachusetts": {
+		"Type": "US State",
+		"Key Locations": [
+			"Holyoke [/ˈhoʊ.li.oʊk/]",
+			"Pittsfield",
+			"Waltham",
+			"Quincy",
+			"Northampton",
+			"Amherst",
+			"Salem",
+			"Boston"
+		]
+	},
+	"Minnesota": {
+		"Type": "US State",
+		"Key Locations": [
+			"Winona",
+			"Superior National Forest",
+			"Lake Minnetonka",
+			"Stillwater",
+			"The North Star State",
+			"Grand Rapids",
+			"Duluth",
+			"Fargo",
+			"Minneapolis",
+			"St. Paul"
+		]
+	},
+	"Mississippi": {
+		"Type": "US State",
+		"Key Locations": [
+			"Hattiesburg",
+			"Vicksburg",
+			"Starkville",
+			"Oxford",
+			"Meridian",
+			"Southaven",
+			"Biloxi",
+			"Madison",
+			"Jackson"
+		]
+	},
+	"New Mexico": {
+		"Type": "US State",
+		"Key Locations": [
+			"Las Cruces",
+			"Angel Fire",
+			"Santa Rosa",
+			"Shiprock",
+			"Carlsbad Caverns",
+			"Alamogordo",
+			"Truth Or Consequences",
+			"Albuquerque",
+			"Roswell",
+			"Santa Fe"
+		]
+	},
+	"New York": {
+		"Type": "US State",
+		"Key Locations": [
+			"Ithaca",
+			"Oswego",
+			"Utica",
+			"Catskill",
+			"Schenectady",
+			"Syracuse",
+			"Buffalo",
+			"Harlem",
+			"Queens",
+			"Albany"
+		]
+	},
+	"Oregon": {
+		"Type": "US State",
+		"Key Locations": [
+			"Ashland",
+			"Pendleton",
+			"Juniper Canyon",
+			"Florence",
+			"Baker City",
+			"Bend",
+			"Astoria",
+			"Eugene",
+			"Portland",
+			"Salem"
+		]
+	},
+	"Pennsylvania": {
+		"Type": "US State",
+		"Key Locations": [
+			"Punxsutawney",
+			"Scranton",
+			"Lancaster",
+			"Butler",
+			"Allentown",
+			"Erie",
+			"Pittsburgh",
+			"Philadelphia",
+			"Harrisburg"
+		]
+	},
+	"Rhode Island": {
+		"Type": "US State",
+		"Key Locations": [
+			"Warwick",
+			"Cranston",
+			"Charlestown",
+			"Beavertail Lighthouse Museum",
+			"Prudence Island",
+			"Cumberland",
+			"Quahog Clams",
+			"Narragansett",
+			"Providence"
+		]
+	},
+	"Tennessee": {
+		"Type": "US State",
+		"Key Locations": [
+			"Franklin",
+			"Cookeville",
+			"Chattanooga",
+			"Murfreesboro",
+			"Knoxville",
+			"Memphis",
+			"Nashville"
+		]
+	},
+	"Texas": {
+		"Type": "US State",
+		"Key Locations": [
+			"Corpus Christi",
+			"Amarillo",
+			"Fort Worth",
+			"Laredo",
+			"Waco",
+			"El Paso",
+			"San Antonio",
+			"Houston",
+			"Dallas",
+			"Austin"
+		]
+	},
+	"Washington": {
+		"Type": "US State",
+		"Key Locations": [
+			"Pasco",
+			"Bellingham",
+			"Moses Lake",
+			"Tacoma",
+			"Walla Walla",
+			"Everett",
+			"Spokane [/spoʊˈkæn/]",
+			"Redmond",
+			"Seattle",
+			"Olympia"
+		]
+	}
+}
