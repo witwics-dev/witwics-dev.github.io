@@ -1,0 +1,101 @@
+{
+	"Case Title": "The Test Questions Quest",
+	"Accused Crook": 6,
+	"Stolen Loot": "honse",
+	"Case Description": "Sarah Nade has jacked my horse! I mean... stolen my horse! Get that pony back so I can ride them again! No, wait, I mean like a cowboy. Fuck, that's worse. Just return the horse please.",
+	"Videos": [ 0 ],
+	"Round 1": [
+		{
+			"Type": 1,
+			"Maps": [ 0 ],
+			"Presentation": {
+				"Medium": 0,
+				"Videos": [ 0 ],
+				"Clue Description": "Sarah is in a Canadian province north of Montana. The capital is Regina."
+			},
+			"Choices": [
+				"Alberta",
+				"Saskatchewan",
+				"Northwest Territories"
+			],
+			"Clues": [
+				"Canadian province",
+				"North of Montana",
+				"Capital is Regina [/rɪˈdʒaɪnə/]"
+			],
+			"Correct Response": 2
+		},
+		{
+			"Type": 2,
+			"Location": "Regina, Saskatchewan",
+			"Questions": [
+				{
+					"Question": "Something should go here",
+					"Choices": [
+						"Sure",
+						"Maybe",
+						"Nah"
+					],
+					"Correct Response": 3
+				}
+			]
+		},
+		{
+			"Type": 4,
+			"Maps": [ 0, 0 ],
+			"Description": "Patty left Latvia and went back to the United States.",
+			"Clues": [
+				{
+					"Clue": "Here's a very short chase round",
+					"Choices": [
+						"Oooh...",
+						"The",
+						"Chaaaaaase~"
+					],
+					"Correct Response": 1
+				}
+			]
+		},
+		{
+			"Type": 5,
+			"Maps": [ 0 ],
+			"Presentation": {
+				"Medium": 0,
+				"Videos": [ 0 ],
+				"Clue Description": "I don't care about this part right now."
+			},
+			"Choices": [
+				"Okay",
+				"Okay",
+				"Okay"
+			],
+			"Clues": [
+			],
+			"Correct Response": 2
+		}
+	],
+	"Round 2": {
+		"Location": "Whatever",
+		"Additional Information": "",
+		"Landmarks": [
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" },
+			{ "Landmark": "Place" }
+		]
+	},
+	"Round 3": {
+		"Continent": 5
+	}
+}
