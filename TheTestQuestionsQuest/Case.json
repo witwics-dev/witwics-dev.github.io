@@ -96,6 +96,7 @@
 		]
 	},
 	"Round 3": {
-		"Continent": 5
+		"Continent": 5,
+		"Hard Mode": true
 	}
 }
