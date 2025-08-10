@@ -52,7 +52,8 @@
 			"Presentation": {
 				"Medium": 1,
 				"Videos": [ 2 ],
-				"Clue Description": "This is Diblo Dibala. He wrote a note for us: 'I just saw Patty Larceny in my hometown. Some of Africa's most famous contemporary artists live there, like Iyenga, Gaz Mawete, and Gims. So come to Lubumbashi and pack Patty in."
+				"Clue Description": "I just saw Patty Larceny in my hometown. Some of Africa's most famous contemporary artists live here, such as Iyenga, Gaz Mawete, and Gims. So come to Lubumbashi and pack Patty in.",
+				"Video Artist": "Diblo Dibala"
 			},
 			"Choices": [
 				"Democratic Republic Of The Congo",
