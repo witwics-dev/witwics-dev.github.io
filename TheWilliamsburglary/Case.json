@@ -11,7 +11,8 @@
 			"Presentation": {
 				"Medium": 2,
 				"Clue Description": "Patty is in the capital of a country north of Germany, attending opening night of the Verdensballetten ballet festival. The royal family themselves contribute to the ballet, and attend the festival annually.",
-				"Translated Language": "Danish"
+				"Translated Language": "Danish",
+				"Original Text Placeholder": "Patty er i hovedstaden i et land nord for Tyskland, hvor hun deltager i åbningsaftenen for Verdensballetten. Kongefamilien bidrager selv til balletten og deltager i festivalen årligt."
 			},
 			"Choices": [
 				"Versaille",
@@ -155,7 +156,7 @@
 					"Correct Response": 3
 				},
 				{
-					"Clue": "Then, they hot-footed it to the capital of New Mexico. Name it.",
+					"Clue": "Then, she hot-footed it to the capital of New Mexico. Name it.",
 					"Choices": [
 						"Santa Fe",
 						"Denver",
@@ -164,7 +165,7 @@
 					"Correct Response": 1
 				},
 				{
-					"Clue": "They carted Colonial Williamsburg across New Mexico's northern border. What state are they in now?",
+					"Clue": "She carted Colonial Williamsburg across New Mexico's northern border. What state is she in now?",
 					"Choices": [
 						"Colorado",
 						"Idaho",
@@ -173,7 +174,7 @@
 					"Correct Response": 1
 				},
 				{
-					"Clue": "Next, they hoofed it to a hideout in Jackson Hole. Name the state.",
+					"Clue": "Next, she hoofed it to a hideout in Jackson Hole. Name the state.",
 					"Choices": [
 						"Oregon",
 						"Nevada",
@@ -182,7 +183,7 @@
 					"Correct Response": 3
 				},
 				{
-					"Clue": "Patty winged it from Wyoming to the site of the Temple Of The Sun. What state is she now in?",
+					"Clue": "Patty winged it from Wyoming to the site of the Temple Of The Sun. What state is she in now?",
 					"Choices": [
 						"Utah",
 						"Idaho",
