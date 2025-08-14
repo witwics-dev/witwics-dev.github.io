@@ -35,7 +35,7 @@
 				"Medium": 0,
 				"Clue Title": "Rhea Perlman (Agent for ACME Wealthy Waitressnet)",
 				"Videos": [ 1 ],
-				"Clue Description": "Okay, gumshoes, I got the word on Patty. She's on a mountaintop line that runs from north to south. It goes through three national parks and 25 national forests in five different states. The line divides all the water in North America. The streams and rivers east of it flow toward the Atlantic Ocean. The ones to the west of it flow toward the Pacific. But Patty is only flowing in one direction: to prison."
+				"Video Transcripts": ["Okay, gumshoes, I got the word on Patty. She's on a mountaintop line that runs from north to south. It goes through three national parks and 25 national forests in five different states. The line divides all the water in North America. The streams and rivers east of it flow toward the Atlantic Ocean. The ones to the west of it flow toward the Pacific. But Patty is only flowing in one direction: to prison."]
 			},
 			"Choices": [
 				"Tropic Of Cancer",
@@ -112,7 +112,7 @@
 				"Medium": 0,
 				"Clue Title": "Phone Tap: Carmen Sandiego and Patty Larceny",
 				"Videos": [ 3 ],
-				"Clue Description": "Patty: 'Oh, Carmen... This colonial lifestyle's no fun. They don't even have computer games.'\nCarmen: 'Sorry, dear. ACME is closing in. Head for a Brazilian state with one of the world's longest rivers.'\nPatty: 'Oh, I know the state you mean! Mostly covered by one of the largest tropical rainforests in the world!'\nCarmen: 'Right. The perfect place to hide Williamsburg. But you won't have time for computer games there, either.'\nPatty: 'Oh, that's okay. I'll do my second-favourite hobby: identifying jungle insects by phylum, genus, and species.'"
+				"Video Transcripts": ["Patty: 'Oh, Carmen... This colonial lifestyle's no fun. They don't even have computer games.'\nCarmen: 'Sorry, dear. ACME is closing in. Head for a Brazilian state with one of the world's longest rivers.'\nPatty: 'Oh, I know the state you mean! Mostly covered by one of the largest tropical rainforests in the world!'\nCarmen: 'Right. The perfect place to hide Williamsburg. But you won't have time for computer games there, either.'\nPatty: 'Oh, that's okay. I'll do my second-favourite hobby: identifying jungle insects by phylum, genus, and species.'"]
 			},
 			"Choices": [
 				"Pernambuco",
@@ -133,7 +133,7 @@
 				"Medium": 0,
 				"Clue Title": "Rockapella",
 				"Videos": [ 4 ],
-				"Clue Description": "[Rockapella interlude]"
+				"Video Transcripts": ["[Rockapella interlude]"]
 			},
 			"Choices": [
 				"Moldova",
@@ -150,7 +150,7 @@
 		{
 			"Type": 4,
 			"Maps": [ 5, 6 ],
-			"Description": "Patty left Latvia and went back to the United States.",
+			"Description": "Patty left Moldova and went back to the United States.",
 			"Clues": [
 				{
 					"Clue": "Patty took off for the Grand Canyon. What state is she in?",
@@ -206,7 +206,7 @@
 				"Medium": 0,
 				"Clue Title": "The Chief (ACME Junkanoonet)",
 				"Videos": [ 5 ],
-				"Clue Description": "I just got this from ACME Junkanoonet. Junkanoo is a year-end festival that takes place every year in the capital of The Bahamas, on New Providence Island. Festival fun-seekers wear colourful crépe paper costumes like this one. And we just got word that Patty is there, shopping for a costume big enough to hide Colonial Williamsburg."
+				"Video Transcripts": ["I just got this from ACME Junkanoonet. Junkanoo is a year-end festival that takes place every year in the capital of The Bahamas, on New Providence Island. Festival fun-seekers wear colourful crépe paper costumes like this one. And we just got word that Patty is there, shopping for a costume big enough to hide Colonial Williamsburg."]
 			},
 			"Choices": [
 				"Freeport",
