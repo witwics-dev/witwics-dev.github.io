@@ -87,7 +87,7 @@
 			"Presentation": {
 				"Medium": 0,
 				"Clue Title": "Phone Tap",
-				"Clue Description": "Carmen Sandiego and Patty Larceny",
+				"Clue Description": "Carmen Sandiego and Eartha Brute",
 				"Videos": [ 3 ],
 				"Video Transcripts": ["Eartha: I have this ringing in my ears, Carmen. I can't figure it out.\nCarmen: It's the bell, [???]. ACME can hear it, too. Disguise yourself as a bull, and head for the bullring at Campo Pequeno. It's in a port city on Europe's Atlantic coast.\nEartha: What if a matador comes after me with a sword?\nCarmen: First of all, in this country they don't kill bulls at bullfights.\nEartha: Good. I can't stand blood, especially my own.\nCarmen: And secondly, the matador isn't the main bullfighter. The real star is the Cavaleiro, who fights the bull on horseback.\nEartha: Me versus a guy on a horse? No problem, I'll clobber him!"]
 			},
@@ -128,7 +128,7 @@
 			"Type": 4,
 			"Location": "The United States",
 			"Maps": [ 4, 5 ],
-			"Clue Description": "Patty left Moldova and went back to the United States.",
+			"Clue Description": "Eartha left Cape Fear and travelled south.",
 			"Clues": [
 				{
 					"Clue": "Eartha chugged her chime to the capital of South Carolina. Name it.",
