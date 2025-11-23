@@ -1,0 +1,227 @@
+{
+	"Case Title": "Bad Day On Broadway",
+	"Accused Crook": 1,
+	"Stolen Loot": "Tony Awards",
+	"Case Description": "Double Trouble have stolen the Tony Awards.",
+	"Intro Video": 0,
+	"Intro Video Transcript": "Today's episode: Bad Day On Broadway\n\nGumshoes, Carmen Sandiego's pack of pestiferous pickeroons has struck again. They burgled beneath the bright lights of Broadway in New York City. The ultimate prize in movies is the Oscar. For television, it's the Emmy. But for Broadway theatre, the Tony Award reigns supreme. The awards were established in 1947 by the American Theatre Wing, a non-profit organisation that promotes theatre in America. They were named Tony in honour of Antoinette Perry, an actress, director, and producer. Each spring, the Tonys are presented live on Broadway before a television audience of millions of viewers worldwide. But now, the bright lights of Broadway have dimmed in despair, because the Tonys are gone! That dastardly duo known as Double Trouble crashed the ceremony and made off with the mounted medallions. Gumshoes, you've got to derail Double Trouble, return the Tonys to Broadway, and then capture Carmen Sandiego.",
+	"Round 1": [
+		{
+			"Type": 1,
+			"Maps": [ 0 ],
+			"Presentation": {
+				"Medium": 0,
+				"Clue Title": "The Chief",
+				"Clue Description": "The Chief has our first clue.",
+				"Videos": [ 1 ],
+				"Video Transcripts": ["Double Trouble have stolen the Tony Awards, and there's no time to lose. Here's the profile on Trouble. They're twin tricksters who party hearty and burgle brazenly. And here's what we know so far: ACME Antoinettenet has tracked Double Trouble and the Tony's to a Kentucky city on the Ohio River. It's home to the famous Actors Theater, a mecca for the playwrights and stars of tomorrow. Honoured with a special Tony Award for its outstanding work, this theatre originated such hits as Crimes Of The Heart, and Agnes Of God. You know, gumshoes, your Chief once dabbled in theatre herself, and I often think back to those bygone days... Well, one thing's for sure: Double Trouble have done wrong. And they won't come back just because we asked them. Now go out there and get 'em."]
+			},
+			"Choices": [
+				"Louisville",
+				"Frankfort",
+				"Lexington"
+			],
+			"Clues": [
+				"Kentucky city",
+				"On the Ohio River",
+				"Home to the famous Actors Theater",
+				"Some Broadway hits originated there"
+			],
+			"Correct Response": 1
+		},
+		{
+			"Type": 1,
+			"Maps": [ 1 ],
+			"Presentation": {
+				"Medium": 0,
+				"Clue Title": "ACME Parabolanet",
+				"Clue Description": "We received a tip from ACME Parabolanet.",
+				"Videos": [ 2 ],
+				"Video Transcripts": ["Double Trouble are on board a Mississippi River showboat called the Goldenrod. Years ago, there were lots of showboats; floating theatres that travelled the river, bringing plays and musical revues to towns and cities along the way. The Goldenrod is one of the only ones left, and it's docked in Missouri, real close to yours truly. I'd grab the twins for you, but uh, I'm incognito. And besides, that's your job."]
+			},
+			"Choices": [
+				"St. Louis",
+				"Kansas City",
+				"Little Rock"
+			],
+			"Clues": [
+				"Showboat on the Mississippi River",
+				"Gateway arch",
+				"City in Missouri"
+			],
+			"Correct Response": 1
+		},
+		{
+			"Type": 2,
+			"Location": "Kyoto, Japan",
+			"Questions": [
+				{
+					"Question": "The Golden Pavilion Temple is one of Kyoto's most famous sites. But the present temple is a replica of the nearly 600 year old original which was destroyed in 1950. Was it...",
+					"Choices": [
+						"Struck by lightning",
+						"Levelled by an earthquake",
+						"Burned by a student monk"
+					],
+					"Correct Response": 3
+				},
+				{
+					"Question": "Kyoto's Ryoanji Temple contains a famous garden specifically designed for quiet meditation. What are its main features?",
+					"Choices": [
+						"Rare orchids",
+						"Black stones on white gravel",
+						"Cypress trees"
+					],
+					"Correct Response": 2
+				},
+				{
+					"Question": "This distinctive Japanese plucked string instrument is a half-tube zither, often with 13 strings, over bridges that can be adjusted for tuning. Is it called...",
+					"Choices": [
+						"Koto",
+						"Chord",
+						"Sitar"
+					],
+					"Correct Response": 1
+				}
+			]
+		},
+		{
+			"Type": 1,
+			"Maps": [ 2 ],
+			"Presentation": {
+				"Medium": 0,
+				"Clue Title": "Phone Tap",
+				"Clue Description": "Carmen Sandiego and Double Trouble",
+				"Videos": [ 3 ],
+				"Video Transcripts": ["Carmen: Take the Tonys to an African country where theatre has been used as a weapon.\nDouble Trouble: Well, that's a pretty big weapon to carry around, Carmen.\nCarmen: Not that kind of weapon. Playwrights like Athol Fugard and Mbongeni Ngema used their words as weapons to fight apartheid.\nDouble Trouble: Wow, that takes courage.\nCarmen: That's right. Now the country has a new constitution with equality for all.\nDouble Trouble: Well, let's give those playwrights a Tony or two, we've got a ton of 'em.\nCarmen: If you flash those awards, the only bright lights you'll see will be on the guard towers in prison.\nDouble Trouble: Oh, Carmen, you never let us have any fun."]
+			},
+			"Choices": [
+				"Namibia",
+				"South Africa",
+				"Zimbabwe"
+			],
+			"Clues": [
+				"Playwrights Athol Fugard and Mbongeni Ngema",
+				"Former apartheid state"
+			],
+			"Correct Response": 2
+		},
+		{
+			"Type": 1,
+			"Maps": [ 3 ],
+			"Presentation": {
+				"Medium": 0,
+				"Clue Title": "Rockapella",
+				"Videos": [ 4 ],
+				"Video Transcripts": ["Double Trouble took their [???] up the River Avon\nThey planned a ceremony to lay a Tony on\nA guy who's been dead for nearly 400 years\nEverybody knows Shakespeare; he was born right here\nThe rockin' English playwright had a way with words\nHe probably never surfed, but he knew his nouns and verbs\nThey still perform his work at theatres far and near\nEverybody knows Shakespeare; Will was born right here\nEverybody knows Shakespeare\nWill was born right here"]
+			},
+			"Choices": [
+				"Bradford On Avon",
+				"Stratford Upon Avon",
+				"Canterbury"
+			],
+			"Clues": [
+				"Avon River",
+				"Birthplace of Shakespeare"
+			],
+			"Correct Response": 2
+		},
+		{
+			"Type": 4,
+			"Location": "The United States",
+			"Maps": [ 4, 5 ],
+			"Clue Description": "Double Trouble have left Stratford on Avon",
+			"Clues": [
+				{
+					"Clue": "Double Trouble took the Tonys to Turkey's capital city. Name it.",
+					"Choices": [
+						"Ankara",
+						"Athens",
+						"Odessa"
+					],
+					"Correct Response": 1
+				},
+				{
+					"Clue": "From Ankara, they grabbed a jet and headed northwest to Romania. What sea did they cross?",
+					"Choices": [
+						"Aegean",
+						"Black",
+						"Caspian"
+					],
+					"Correct Response": 2
+				},
+				{
+					"Clue": "From Romania, they trekked the Tonys south to the city of Sofia. What country are they in?",
+					"Choices": [
+						"Hungary",
+						"Poland",
+						"Bulgaria"
+					],
+					"Correct Response": 3
+				},
+				{
+					"Clue": "From Bulgaria, Double Trouble raced south by southwest to the site of the Parthenon. What city are they in?",
+					"Choices": [
+						"Athens",
+						"Rome",
+						"Istanbul"
+					],
+					"Correct Response": 1
+				},
+				{
+					"Clue": "Double Trouble crossed the northwestern border of Greece into another country. Name it.",
+					"Choices": [
+						"Albania",
+						"Italy",
+						"Serbia"
+					],
+					"Correct Response": 3
+				}
+			]
+		},
+		{
+			"Type": 5,
+			"Maps": [ 6 ],
+			"Presentation": {
+				"Medium": 0,
+				"Clue Title": "Maury Povich",
+				"Clue Description": "ACME Talkshownet",
+				"Videos": [ 5 ],
+				"Video Transcripts": ["Hey, gumshoes. Double Trouble are in a Russian city where one of the most popular attractions is the Durov Animal Theater. That's right, a theater for animals. It was created by Vladimir Durov, a popular circus clown who became an expert animal trainer. And speaking of clowns, I hear Double Trouble have a trapeze act. They call themselves the Flying Felons."]
+			},
+			"Choices": [
+				"Moscow",
+				"Minsk",
+				"Kiev"
+			],
+			"Clues": [
+				"Russian city",
+				"Durov Animal Theater"
+			],
+			"Correct Response": 1
+		}
+	],
+	"Round 2": {
+		"Location": "Moscow",
+		"Additional Information": "",
+		"Landmarks": [
+			{ "Landmark": "Savoy" },
+			{ "Landmark": "Moscow University" },
+			{ "Landmark": "Time Machine" },
+			{ "Landmark": "St. Basil's Cathedral" },
+			{ "Landmark": "Kremlin" },
+			{ "Landmark": "Durov Animal Theater" },
+			{ "Landmark": "Red Square" },
+			{ "Landmark": "U.S. Embassy" },
+			{ "Landmark": "Moscow Subway Station" },
+			{ "Landmark": "Cosmos Pavilion" },
+			{ "Landmark": "Gum Department Store" },
+			{ "Landmark": "Dietsky Mir" },
+			{ "Landmark": "Chaika Tennis Courts" },
+			{ "Landmark": "Izmaylovo Park" },
+			{ "Landmark": "Taganka Theater" }
+		]
+	},
+	"Round 3": {
+		"Continent": 5
+	}
+}
