@@ -127,7 +127,7 @@
 		},
 		{
 			"Type": 4,
-			"Location": "The United States",
+			"Location": "Europe",
 			"Maps": [ 4, 5 ],
 			"Clue Description": "Double Trouble have left Stratford on Avon",
 			"Clues": [
@@ -174,7 +174,7 @@
 						"Italy",
 						"Serbia"
 					],
-					"Correct Response": 3
+					"Correct Response": 1
 				}
 			]
 		},
@@ -191,7 +191,7 @@
 			"Choices": [
 				"Moscow",
 				"Minsk",
-				"Kiev"
+				"Kyiv"
 			],
 			"Clues": [
 				"Russian city",
