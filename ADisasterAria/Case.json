@@ -1,0 +1,227 @@
+{
+	"Case Title": "A Disaster Aria",
+	"Accused Crook": 0,
+	"Stolen Loot": "Teatro Amazonas",
+	"Case Description": "Contessa has stolen the Teatro Amazonas",
+	"Intro Video": 0,
+	"Intro Video Transcript": "",
+	"Round 1": [
+		{
+			"Type": 1,
+			"Maps": [ 0 ],
+			"Presentation": {
+				"Medium": 0,
+				"Clue Title": "The Chief",
+				"Clue Description": "The Chief has our first clue.",
+				"Videos": [ 1 ],
+				"Video Transcripts": ["Eartha Brute has stolen the Tsar Bell, and there's no time to lose. Here's the profile on Eartha. A tall, troublesome tower whose belfry is bereft of brains. And here's what we know so far: Eartha took the bell to the homeland of another ancient monarchy, the kings of Siam. She dragged it into Aisawan Thipphaya-at, an island pavilion where the royals escape from the hot Bangkok summers. The pavilion, which appears to be floating on the lake, is one of the most photographed structures in the country. Now, on the grounds you'll also find a topiary garden where all the bushes have been trimmed into the shape of elephants. But be alert: it will be hard to pick Eartha out in this crowd."]
+			},
+			"Choices": [
+				"Thailand",
+				"Myanmar",
+				"Bangladesh"
+			],
+			"Clues": [
+				"Ancient monarchy of the kings of Siam",
+				"Bangkok"
+			],
+			"Correct Response": 1
+		},
+		{
+			"Type": 1,
+			"Maps": [ 1 ],
+			"Presentation": {
+				"Medium": 3,
+				"Clue Title": "Detective Noir",
+				"Clue Description": "Hearing that sound brings me back to a bygone era. When men were men, and detectives were black and white...",
+				"Videos": [ 2 ],
+				"Video Transcripts": [""]
+			},
+			"Choices": [
+				"Cue",
+				"Hobart",
+				"Adelaide"
+			],
+			"Clues": [
+				"City near the Great Australian Bight",
+				"Torrens River"
+			],
+			"Correct Response": 3
+		},
+		{
+			"Type": 2,
+			"Location": "Nigeria",
+			"Questions": [
+				{
+					"Question": "Which of the following is *not* an ethnic group that lives in Nigeria?",
+					"Choices": [
+						"Fulani",
+						"Hausa",
+						"Navajo"
+					],
+					"Correct Response": 3
+				},
+				{
+					"Question": "Nigera ranks 14th in size on the continent of Africa. Does it have Africa's...",
+					"Choices": [
+						"Largest population",
+						"Largest desert",
+						"Longest river"
+					],
+					"Correct Response": 1
+				},
+				{
+					"Question": "Lagos was once the capital city of Nigeria, but a new capital was being readied in the central part of the country. Is that city called...",
+					"Choices": [
+						"Ankhara",
+						"Albany",
+						"Abuja"
+					],
+					"Correct Response": 3
+				}
+			]
+		},
+		{
+			"Type": 1,
+			"Maps": [ 2 ],
+			"Presentation": {
+				"Medium": 0,
+				"Clue Title": "Phone Tap",
+				"Clue Description": "Carmen Sandiego and Eartha Brute",
+				"Videos": [ 3 ],
+				"Video Transcripts": ["Eartha: I have this ringing in my ears, Carmen. I can't figure it out.\nCarmen: It's the bell, [???]. ACME can hear it, too. Disguise yourself as a bull, and head for the bullring at Campo Pequeno. It's in a port city on Europe's Atlantic coast.\nEartha: What if a matador comes after me with a sword?\nCarmen: First of all, in this country they don't kill bulls at bullfights.\nEartha: Good. I can't stand blood, especially my own.\nCarmen: And secondly, the matador isn't the main bullfighter. The real star is the Cavaleiro, who fights the bull on horseback.\nEartha: Me versus a guy on a horse? No problem, I'll clobber him!"]
+			},
+			"Choices": [
+				"Paris",
+				"Barcelona",
+				"Lisbon"
+			],
+			"Clues": [
+				"Bullring at Campo Pequeno",
+				"Port city on Europe's Atlantic coast",
+				"Don't kill bulls at bullfights in this country"
+			],
+			"Correct Response": 3
+		},
+		{
+			"Type": 1,
+			"Maps": [ 3 ],
+			"Presentation": {
+				"Medium": 0,
+				"Clue Title": "Rockapella",
+				"Videos": [ 4 ],
+				"Video Transcripts": ["Well, I've been chasin' down a brute, creep, muscle-headed clown\nChasin' down a brute in Michael Jordan's hometown\nWilmington is the name of a town\nby this North Carolina cape\nThey made two Ninja Turtles films there\nNow squash that crook like a grape\nHey, don't you know I'm chasin' down a brute, creep, muscle-headed clown\nChasin' down a brute in Michael Jordan's hometown\nMan, she is so dumb\nShe stole that big dinger, now she thinks she's a southern belle\nWell I've been chasin' down a brute in Michael Jordan's town\nI'm chasin' down a brute, creep, muscle-headed clown"]
+			},
+			"Choices": [
+				"Cape Charles",
+				"Cape May",
+				"Cape Fear"
+			],
+			"Clues": [
+				"Michael Jordan's hometown",
+				"Near Wilmington",
+				"North Carolina cape"
+			],
+			"Correct Response": 3
+		},
+		{
+			"Type": 4,
+			"Location": "The United States",
+			"Maps": [ 4, 5 ],
+			"Clue Description": "Eartha left Cape Fear and travelled south.",
+			"Clues": [
+				{
+					"Clue": "Eartha chugged her chime to the capital of South Carolina. Name it.",
+					"Choices": [
+						"Columbia",
+						"Atlanta",
+						"Raleigh"
+					],
+					"Correct Response": 1
+				},
+				{
+					"Clue": "She jet-ski'd down the coast to Savannah. What state is she in?",
+					"Choices": [
+						"Missouri",
+						"Florida",
+						"Georgia"
+					],
+					"Correct Response": 3
+				},
+				{
+					"Clue": "She bulldozed her way due west across the border. What state is she in?",
+					"Choices": [
+						"Iowa",
+						"Alabama",
+						"Virginia"
+					],
+					"Correct Response": 2
+				},
+				{
+					"Clue": "She hung her bell at the site of the Civil War's Battle Of Vicksburg. What state is she in?",
+					"Choices": [
+						"Mississippi",
+						"Ohio",
+						"Louisiana"
+					],
+					"Correct Response": 1
+				},
+				{
+					"Clue": "She rafted over to Louisiana. What river did she cross?",
+					"Choices": [
+						"Hudson",
+						"Ohio",
+						"Mississippi"
+					],
+					"Correct Response": 3
+				}
+			]
+		},
+		{
+			"Type": 5,
+			"Maps": [ 6 ],
+			"Presentation": {
+				"Medium": 0,
+				"Clue Title": "John Larroquette",
+				"Clue Description": "ACME Courtnet",
+				"Videos": [ 5 ],
+				"Video Transcripts": ["Gumshoes, I spotted Eartha in one of the world's largest cities. She was fighting ten bulls at once in the world's largest bullfighting arena. And she was winning. Now listen, I know she hid the bell in a park right behind the monument called Los Niños Héroes. It honours young cadets who died defending their school during a US invasion in the 1840's. Trust me, that's where you'll find Eartha and the bell."]
+			},
+			"Choices": [
+				"Mexico City",
+				"Guatemala City",
+				"San Salvador"
+			],
+			"Clues": [
+				"One of the world's largest cities",
+				"World's largest bullfighting arena",
+				"Los Niños Héroes"
+			],
+			"Correct Response": 1
+		}
+	],
+	"Round 2": {
+		"Location": "Mexico City",
+		"Additional Information": "",
+		"Landmarks": [
+			{ "Landmark": "El Centro" },
+			{ "Landmark": "Leon Trotsky House" },
+			{ "Landmark": "Polanco" },
+			{ "Landmark": "Chapultepec Castle" },
+			{ "Landmark": "Plaza Garibaldi" },
+			{ "Landmark": "University City" },
+			{ "Landmark": "Reino Aventura" },
+			{ "Landmark": "Plaza México" },
+			{ "Landmark": "Ministry Of Education" },
+			{ "Landmark": "Lagunilla Market" },
+			{ "Landmark": "Diego Rivera Museum" },
+			{ "Landmark": "Alameda Park" },
+			{ "Landmark": "Central Post Office" },
+			{ "Landmark": "National Palace" },
+			{ "Landmark": "Aztec Stadium" }
+		]
+	},
+	"Round 3": {
+		"Continent": 2
+	}
+}
