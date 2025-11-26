@@ -10,22 +10,25 @@
 			"Type": 1,
 			"Maps": [ 0 ],
 			"Presentation": {
-				"Medium": 0,
-				"Clue Title": "The Chief",
-				"Clue Description": "The Chief has our first clue.",
-				"Videos": [ 1 ],
-				"Video Transcripts": ["Eartha Brute has stolen the Tsar Bell, and there's no time to lose. Here's the profile on Eartha. A tall, troublesome tower whose belfry is bereft of brains. And here's what we know so far: Eartha took the bell to the homeland of another ancient monarchy, the kings of Siam. She dragged it into Aisawan Thipphaya-at, an island pavilion where the royals escape from the hot Bangkok summers. The pavilion, which appears to be floating on the lake, is one of the most photographed structures in the country. Now, on the grounds you'll also find a topiary garden where all the bushes have been trimmed into the shape of elephants. But be alert: it will be hard to pick Eartha out in this crowd."]
+				"Medium": 2,
+				"Clue Title": "ACME Crimenet Computer",
+				"Clue Description": "Our first clue is just coming in through the ACME Crimenet Computer.",
+				"Clue Image": [ 0 ],
+				"Translated Language": "Danish",
+				"Untranslated Text Placeholder": "Patty er i hovedstaden i et land nord for Tyskland, hvor hun deltager i åbningsaftenen for Verdensballetten. Kongefamilien bidrager selv til balletten og deltager i festivalen årligt.",
+				"Translated Text": "Patty is in the capital of a country north of Germany, attending opening night of the Verdensballetten ballet festival. The royal family themselves contribute to the ballet, and attend the festival annually."
 			},
 			"Choices": [
-				"Thailand",
-				"Myanmar",
-				"Bangladesh"
+				"Versaille",
+				"Stockholm",
+				"Copenhagen"
 			],
 			"Clues": [
-				"Ancient monarchy of the kings of Siam",
-				"Bangkok"
+				"Capital of a country north of Germany",
+				"Verdensballetten ballet festival",
+				"Attended by the royal family"
 			],
-			"Correct Response": 1
+			"Correct Response": 3
 		},
 		{
 			"Type": 1,
@@ -34,7 +37,7 @@
 				"Medium": 3,
 				"Clue Title": "Detective Noir",
 				"Clue Description": "Hearing that sound brings me back to a bygone era. When men were men, and detectives were black and white...",
-				"Videos": [ 2 ],
+				"Videos": [ 1 ],
 				"Video Transcripts": [""]
 			},
 			"Choices": [
@@ -89,7 +92,7 @@
 				"Clue Title": "Phone Tap",
 				"Clue Description": "Carmen Sandiego and Eartha Brute",
 				"Videos": [ 3 ],
-				"Video Transcripts": ["Eartha: I have this ringing in my ears, Carmen. I can't figure it out.\nCarmen: It's the bell, [???]. ACME can hear it, too. Disguise yourself as a bull, and head for the bullring at Campo Pequeno. It's in a port city on Europe's Atlantic coast.\nEartha: What if a matador comes after me with a sword?\nCarmen: First of all, in this country they don't kill bulls at bullfights.\nEartha: Good. I can't stand blood, especially my own.\nCarmen: And secondly, the matador isn't the main bullfighter. The real star is the Cavaleiro, who fights the bull on horseback.\nEartha: Me versus a guy on a horse? No problem, I'll clobber him!"]
+				"Video Transcripts": [""]
 			},
 			"Choices": [
 				"Paris",
