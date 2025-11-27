@@ -14,8 +14,8 @@
 				"Clue Title": "ACME Crimenet Computer",
 				"Clue Description": "Our first clue is just coming in through the ACME Crimenet Computer.",
 				"Clue Image": [ 0 ],
+				"Clue Text": "Patty er i hovedstaden i et land nord for Tyskland, hvor hun deltager i åbningsaftenen for Verdensballetten. Kongefamilien bidrager selv til balletten og deltager i festivalen årligt.",
 				"Translated Language": "Danish",
-				"Untranslated Text Placeholder": "Patty er i hovedstaden i et land nord for Tyskland, hvor hun deltager i åbningsaftenen for Verdensballetten. Kongefamilien bidrager selv til balletten og deltager i festivalen årligt.",
 				"Translated Text": "Patty is in the capital of a country north of Germany, attending opening night of the Verdensballetten ballet festival. The royal family themselves contribute to the ballet, and attend the festival annually."
 			},
 			"Choices": [
@@ -24,9 +24,9 @@
 				"Copenhagen"
 			],
 			"Clues": [
-				"Capital of a country north of Germany",
-				"Verdensballetten ballet festival",
-				"Attended by the royal family"
+				"",
+				"",
+				""
 			],
 			"Correct Response": 3
 		},
@@ -184,11 +184,12 @@
 			"Type": 5,
 			"Maps": [ 6 ],
 			"Presentation": {
-				"Medium": 0,
-				"Clue Title": "John Larroquette",
-				"Clue Description": "ACME Courtnet",
+				"Medium": 1,
+				"Clue Title": "Video Music Clue",
+				"Clue Description": "It's a video music clue!",
 				"Videos": [ 5 ],
-				"Video Transcripts": ["Gumshoes, I spotted Eartha in one of the world's largest cities. She was fighting ten bulls at once in the world's largest bullfighting arena. And she was winning. Now listen, I know she hid the bell in a park right behind the monument called Los Niños Héroes. It honours young cadets who died defending their school during a US invasion in the 1840's. Trust me, that's where you'll find Eartha and the bell."]
+				"Video Artist": "Kodo",
+				"Note": ""
 			},
 			"Choices": [
 				"Mexico City",
